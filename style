@@ -1,0 +1,20 @@
+body {
+    background:flex;
+    background-color:cyan;
+    
+    
+}
+
+h1{
+    color:red;
+    font-family:monospace;
+    }
+
+p{
+   font-family:cursive; 
+   font-size:30px;
+}
+
+#sad{
+    color:blue;
+}
